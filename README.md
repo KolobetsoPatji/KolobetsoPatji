@@ -1,16 +1,14 @@
-## Hi there 👋
+### 👋 Hi, I'm Kolobetso
+Frontend Developer in training passionate about building smooth, creative digital experiences.
 
-<!--
-**KolobetsoPatji/KolobetsoPatji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently learning
+HTML | CSS | JavaScript | Git | Bash | VS Code | Responsive Design
 
-Here are some ideas to get you started:
+Goal
+Build more projects, grow my portfolio, and land my first frontend role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fun fact
+Dancer & music lover turning creativity into code.
+
+Connect
+[LinkedIn Profile](https://www.linkedin.com/in/kolobetso-patji)
